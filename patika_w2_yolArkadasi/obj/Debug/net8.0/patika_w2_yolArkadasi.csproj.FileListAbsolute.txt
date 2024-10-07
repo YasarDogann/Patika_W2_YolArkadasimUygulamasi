@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_yolArkadasi\patika_w2_yolArkadasi\bin\Debug\net8.0\patika_w2_yolArkadasi.exe
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_yolArkadasi\patika_w2_yolArkadasi\bin\Debug\net8.0\patika_w2_yolArkadasi.deps.json
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_yolArkadasi\patika_w2_yolArkadasi\bin\Debug\net8.0\patika_w2_yolArkadasi.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_yolArkadasi\patika_w2_yolArkadasi\bin\Debug\net8.0\patika_w2_yolArkadasi.dll
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_yolArkadasi\patika_w2_yolArkadasi\bin\Debug\net8.0\patika_w2_yolArkadasi.pdb
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_yolArkadasi\patika_w2_yolArkadasi\obj\Debug\net8.0\patika_w2_yolArkadasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_yolArkadasi\patika_w2_yolArkadasi\obj\Debug\net8.0\patika_w2_yolArkadasi.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_yolArkadasi\patika_w2_yolArkadasi\obj\Debug\net8.0\patika_w2_yolArkadasi.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_yolArkadasi\patika_w2_yolArkadasi\obj\Debug\net8.0\patika_w2_yolArkadasi.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_yolArkadasi\patika_w2_yolArkadasi\obj\Debug\net8.0\patika_w2_yolArkadasi.dll
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_yolArkadasi\patika_w2_yolArkadasi\obj\Debug\net8.0\refint\patika_w2_yolArkadasi.dll
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_yolArkadasi\patika_w2_yolArkadasi\obj\Debug\net8.0\patika_w2_yolArkadasi.pdb
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_yolArkadasi\patika_w2_yolArkadasi\obj\Debug\net8.0\patika_w2_yolArkadasi.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_yolArkadasi\patika_w2_yolArkadasi\obj\Debug\net8.0\ref\patika_w2_yolArkadasi.dll
